@@ -35,6 +35,4 @@ function update() {
   });
 
   const actives = document.querySelectorAll(".active");
-
-  
 }
